@@ -1,0 +1,375 @@
+{
+  "site": {
+    "launchDate": "2026-10-27",
+    "newDays": 30,
+    "music": {
+      "name": "Peter Cat Recording Co.",
+      "note": "PCRC on repeat",
+      "longNote": "The band that’s usually playing while I read, write and work. Put any album on and let it run.",
+      "url": "https://music.apple.com/in/artist/peter-cat-recording-co/526977614"
+    }
+  },
+  "shelves": [
+    {
+      "id": "ai",
+      "label": "AI & Product"
+    },
+    {
+      "id": "business",
+      "label": "Business & Geopolitics"
+    },
+    {
+      "id": "money",
+      "label": "Money & Fintech"
+    },
+    {
+      "id": "film",
+      "label": "Film & Content"
+    },
+    {
+      "id": "ideas",
+      "label": "Ideas & Life"
+    },
+    {
+      "id": "health",
+      "label": "Health & Science"
+    }
+  ],
+  "creators": [
+    {
+      "id": "varun-mayya",
+      "name": "Varun Mayya",
+      "shelf": "ai",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Builds with AI, not just talks about it",
+      "longNote": "Bro actually builds tech companies instead of just talking about AI, so his breakdowns are super practical.",
+      "links": {
+        "youtube": "https://www.youtube.com/@VarunMayya",
+        "linkedin": "https://www.linkedin.com/in/varunmayya",
+        "instagram": "https://www.instagram.com/thevarunmayya"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/varun-mayya.jpg",
+      "photoSource": "https://www.youtube.com/@VarunMayya"
+    },
+    {
+      "id": "jeff-su",
+      "name": "Jeff Su",
+      "shelf": "ai",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "How I actually use AI at work",
+      "longNote": "If you want to use AI at work instead of just reading about it, start here. He shows the exact prompts, tools and workflows, step by step, and you can copy them the same day.",
+      "links": {
+        "youtube": "https://www.youtube.com/@JeffSu"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/jeff-su.jpg",
+      "photoSource": "https://www.youtube.com/@JeffSu"
+    },
+    {
+      "id": "growth-design",
+      "name": "Growth.design",
+      "shelf": "ai",
+      "platform": "linkedin",
+      "note": "Product psychology, told as comics",
+      "longNote": "Teaches product psychology and UX through brilliant comic-book-style case studies.",
+      "links": {
+        "linkedin": "https://www.linkedin.com/school/growthdotdesign/",
+        "website": "https://growth.design/"
+      },
+      "photoSource": "https://growth.design/",
+      "added": "2026-10-27",
+      "photo": "photos/growth-design.jpg"
+    },
+    {
+      "id": "think-school",
+      "name": "Think School",
+      "shelf": "business",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Case studies that play like thrillers",
+      "longNote": "They make complex business strategies and case studies feel like an engaging thriller movie.",
+      "links": {
+        "youtube": "https://www.youtube.com/@ThinkSchool",
+        "instagram": "https://www.instagram.com/thethinkschool",
+        "linkedin": "https://www.linkedin.com/company/the-think-school"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/think-school.jpg",
+      "photoSource": "https://www.youtube.com/@ThinkSchool"
+    },
+    {
+      "id": "anurag-bansal",
+      "name": "Anurag Bansal",
+      "shelf": "business",
+      "platform": "youtube",
+      "tier": "silver",
+      "note": "How top brands actually scale",
+      "longNote": "His real-world business case studies break down how top brands actually scale.",
+      "links": {
+        "youtube": "https://www.youtube.com/@ByAnuragBansal",
+        "instagram": "https://www.instagram.com/businesswithbansal",
+        "linkedin": "https://www.linkedin.com/in/anurag28bansal"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/anurag-bansal.jpg",
+      "photoSource": "https://www.youtube.com/@ByAnuragBansal"
+    },
+    {
+      "id": "sarthak-ahuja",
+      "name": "Sarthak Ahuja",
+      "shelf": "business",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Startup numbers that finally make sense",
+      "longNote": "Breaks down complex corporate finance and startup numbers in a way that actually makes sense.",
+      "links": {
+        "youtube": "https://www.youtube.com/@casarthakahuja",
+        "linkedin": "https://www.linkedin.com/in/casarthakahuja"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/sarthak-ahuja.jpg",
+      "photoSource": "https://www.youtube.com/@casarthakahuja"
+    },
+    {
+      "id": "aviral-bhatnagar",
+      "name": "Aviral Bhatnagar",
+      "shelf": "business",
+      "platform": "linkedin",
+      "note": "Honest takes on Indian VC",
+      "longNote": "Shares raw, unfiltered truths about Indian venture capital and startup investing.",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/aviral-bhatnagar-ajuniorvc/"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/aviral-bhatnagar.jpg"
+    },
+    {
+      "id": "david-senra",
+      "name": "David Senra",
+      "shelf": "business",
+      "platform": "podcast",
+      "note": "Founder biographies, distilled",
+      "longNote": "Reads the biographies of history’s greatest entrepreneurs so we don’t have to read a hundred of them ourselves.",
+      "links": {
+        "podcast": "https://www.davidsenra.com/",
+        "youtube": "https://www.youtube.com/@DavidSenra"
+      },
+      "photoSource": "https://www.youtube.com/@DavidSenra",
+      "added": "2026-10-27",
+      "photo": "photos/david-senra.jpg"
+    },
+    {
+      "id": "pranjal-kamra",
+      "name": "Pranjal Kamra",
+      "shelf": "money",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Investing, minus the jargon",
+      "longNote": "Cuts through all the noise to explain personal finance and investing without any boring jargon.",
+      "links": {
+        "youtube": "https://www.youtube.com/@pranjalkamra",
+        "instagram": "https://www.instagram.com/pranjalkamra",
+        "linkedin": "https://www.linkedin.com/in/pranjal-kamra-365355a0"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/pranjal-kamra.jpg",
+      "photoSource": "https://www.youtube.com/@pranjalkamra"
+    },
+    {
+      "id": "chahal-vermaa",
+      "name": "Chahal Vermaa",
+      "shelf": "money",
+      "platform": "instagram",
+      "note": "Money, markets and compounding",
+      "longNote": "All things investments, money, markets and other compounding opportunities.",
+      "links": {
+        "instagram": "https://www.instagram.com/chahalvermaa/"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/chahal-vermaa.jpg"
+    },
+    {
+      "id": "rainmatter",
+      "name": "Rainmatter",
+      "shelf": "money",
+      "platform": "linkedin",
+      "note": "Zerodha’s fund on lasting businesses",
+      "longNote": "Zerodha’s fund shares brilliant deep-dives on Indian fintech, health and building sustainable businesses.",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/rainmatterin",
+        "youtube": "https://www.youtube.com/@rainmatterin"
+      },
+      "photoSource": "https://www.youtube.com/@rainmatterin",
+      "added": "2026-10-27",
+      "photo": "photos/rainmatter.jpg"
+    },
+    {
+      "id": "kunal-shah",
+      "name": "Kunal Shah",
+      "shelf": "money",
+      "platform": "linkedin",
+      "note": "Mental models on Indian consumers",
+      "longNote": "Drops cryptic, high-leverage mental models on consumer behaviour and wealth in India.",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/kunalshah1",
+        "x": "https://x.com/kunalb11"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/kunal-shah.jpg"
+    },
+    {
+      "id": "aevytv",
+      "name": "AevyTV",
+      "shelf": "film",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "A masterclass in keeping you hooked",
+      "longNote": "Their visual storytelling and editing style are absolute masterclasses in keeping you hooked.",
+      "links": {
+        "youtube": "https://www.youtube.com/@aevytv",
+        "instagram": "https://www.instagram.com/aevytvdaily/"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/aevytv.jpg",
+      "photoSource": "https://www.youtube.com/@aevytv"
+    },
+    {
+      "id": "jazzie-sillona",
+      "name": "Jazzie Sillona",
+      "shelf": "film",
+      "platform": "youtube",
+      "tier": "copper",
+      "note": "Makes me want to film on my phone",
+      "longNote": "A wizard at mobile filmmaking. He makes you want to grab your phone and shoot something cinematic right away.",
+      "links": {
+        "youtube": "https://www.youtube.com/@jazziesillona",
+        "instagram": "https://www.instagram.com/jazziesillona/"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/jazzie-sillona.jpg",
+      "photoSource": "https://www.youtube.com/@jazziesillona"
+    },
+    {
+      "id": "david-fragomeni",
+      "name": "David Fragomeni",
+      "shelf": "film",
+      "platform": "youtube",
+      "tier": "copper",
+      "note": "Thinking like an elite creative",
+      "longNote": "Drops raw, unfiltered insights on building online brands and thinking like an elite creative.",
+      "links": {
+        "youtube": "https://www.youtube.com/@david.fragomeni",
+        "instagram": "https://www.instagram.com/davidfragomeni",
+        "linkedin": "https://www.linkedin.com/in/david-fragomeni"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/david-fragomeni.jpg",
+      "photoSource": "https://www.youtube.com/@david.fragomeni"
+    },
+    {
+      "id": "adam-mosseri",
+      "name": "Adam Mosseri",
+      "shelf": "film",
+      "platform": "instagram",
+      "note": "What Instagram is building next",
+      "longNote": "Gives the inside scoop straight from the top on what Instagram is building and pushing next.",
+      "links": {
+        "instagram": "https://www.instagram.com/mosseri"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/adam-mosseri.jpg"
+    },
+    {
+      "id": "shortsophy",
+      "name": "Shortsophy",
+      "shelf": "ideas",
+      "platform": "youtube",
+      "tier": "copper",
+      "note": "Philosophy in punchy little films",
+      "longNote": "Brilliant at distilling deep philosophy and psychology into punchy visual stories.",
+      "links": {
+        "youtube": "https://www.youtube.com/@shortsophy"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/shortsophy.jpg",
+      "photoSource": "https://www.youtube.com/@shortsophy"
+    },
+    {
+      "id": "stories-with-kiki",
+      "name": "Stories with Kiki",
+      "shelf": "ideas",
+      "platform": "substack",
+      "note": "Essays that feel like coffee chats",
+      "longNote": "Writes such cozy, relatable essays about modern life that you feel like you’re chatting over coffee.",
+      "links": {
+        "substack": "https://substack.com/@storieswithkiki",
+        "instagram": "https://www.instagram.com/storieswithkiki"
+      },
+      "photoSource": "https://substack.com/@storieswithkiki",
+      "added": "2026-10-27",
+      "photo": "photos/stories-with-kiki.jpg"
+    },
+    {
+      "id": "diary-of-an-adult-teenager",
+      "name": "The Diary of an Adult Teenager",
+      "shelf": "ideas",
+      "platform": "substack",
+      "note": "Figuring out your twenties, honestly",
+      "longNote": "Captures that exact weird feeling of figuring out your twenties with hilarious honesty.",
+      "links": {
+        "substack": "https://substack.com/@thediaryofanadultteenager"
+      },
+      "photoSource": "https://substack.com/@thediaryofanadultteenager",
+      "added": "2026-10-27",
+      "photo": "photos/diary-of-an-adult-teenager.jpg"
+    },
+    {
+      "id": "diego",
+      "name": "Diego",
+      "shelf": "ideas",
+      "platform": "instagram",
+      "note": "My go-to for outfit inspiration",
+      "longNote": "My go-to for fashion inspiration, styling tips and outfit aesthetics.",
+      "links": {
+        "instagram": "https://www.instagram.com/it.is.dlo"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/diego.jpg"
+    },
+    {
+      "id": "jeff-nippard",
+      "name": "Jeff Nippard",
+      "shelf": "health",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Fitness science that actually works",
+      "longNote": "He takes all the complicated science out of fitness and breaks it down into stuff that actually works.",
+      "links": {
+        "youtube": "https://www.youtube.com/c/JeffNippard",
+        "instagram": "https://www.instagram.com/jeffnippard"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/jeff-nippard.jpg",
+      "photoSource": "https://www.youtube.com/c/JeffNippard"
+    },
+    {
+      "id": "andrew-huberman",
+      "name": "Andrew Huberman",
+      "shelf": "health",
+      "platform": "youtube",
+      "tier": "gold",
+      "note": "Protocols for better sleep and focus",
+      "longNote": "Gives hardcore neuroscience protocols that you can actually use to fix your sleep and focus.",
+      "links": {
+        "youtube": "https://www.youtube.com/@hubermanlab",
+        "instagram": "https://www.instagram.com/hubermanlab"
+      },
+      "added": "2026-10-27",
+      "photo": "photos/andrew-huberman.jpg",
+      "photoSource": "https://www.youtube.com/@hubermanlab"
+    }
+  ]
+}
