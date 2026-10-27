@@ -1,0 +1,7 @@
+{
+  "name": "my-information-diet",
+  "private": true,
+  "description": "My Information Diet by Sarthak: the creators I learn from, on a 3D bookcase.",
+  "scripts": { "build": "node scripts/fetch-photos.mjs" },
+  "engines": { "node": ">=18" }
+}
